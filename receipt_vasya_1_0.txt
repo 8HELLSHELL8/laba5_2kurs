@@ -1,0 +1,4 @@
+Receipt for vasya (ID: 1)
+Product: tomato
+Price: 150
+Payment Method: Cash
